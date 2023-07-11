@@ -1,1 +1,1 @@
-# Heart-Disease-Detection-using-ML-algorithms
+# Heart Disease Detection Using Machine Learning Algorithm
